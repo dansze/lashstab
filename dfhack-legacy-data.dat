@@ -12,5 +12,19 @@
 		],
 		"k" : "autochop/config",
 		"s" : ""
+	},
+	{
+		"i" : 
+		[
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/global",
+		"s" : "bars=0|blocks=1|boulders=1|logs=1|"
 	}
 ]
