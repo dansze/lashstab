@@ -1,4 +1,4 @@
 The Saga* of Lashstab
 =====================
 
-* actual saga coming soon
+\* actual saga coming soon
