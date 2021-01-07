@@ -26,3 +26,7 @@
 [2021-01-06T18:51:54-0500] DFHack 0.47.04-r3-0-gb343d008 on Windows; cwd md5: ed7fed0a21; save: region3; SC_MAP_LOADED; game type DWARF_MAIN (0)
 [2021-01-06T21:13:16-0500] DFHack 0.47.04-r3-0-gb343d008 on Windows; cwd md5: ed7fed0a21; save: region3; SC_MAP_UNLOADED; game type DWARF_MAIN (0)
 [2021-01-06T21:13:16-0500] DFHack 0.47.04-r3-0-gb343d008 on Windows; cwd md5: ed7fed0a21; save: region3; SC_WORLD_UNLOADED; game type DWARF_MAIN (0)
+[2021-01-06T18:58:52-0800] DFHack 0.47.04-r4 on Linux; cwd md5: 22334ae0f9; save: lashstab; SC_WORLD_LOADED; game type DWARF_MAIN (0)
+[2021-01-06T18:58:52-0800] DFHack 0.47.04-r4 on Linux; cwd md5: 22334ae0f9; save: lashstab; SC_MAP_LOADED; game type DWARF_MAIN (0)
+[2021-01-06T23:39:22-0800] DFHack 0.47.04-r4 on Linux; cwd md5: 22334ae0f9; save: lashstab; SC_MAP_UNLOADED; game type DWARF_MAIN (0)
+[2021-01-06T23:39:22-0800] DFHack 0.47.04-r4 on Linux; cwd md5: 22334ae0f9; save: lashstab; SC_WORLD_UNLOADED; game type DWARF_MAIN (0)
