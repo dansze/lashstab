@@ -18,9 +18,9 @@ The twilight hammer cult has moved to farming. They now have their own guild hal
 
 A growing order of necromancers concerns Fath. They have not reanimated anything yet, but it's only a matter of time.
 
-## The Third Year
+## The Third Year (Year of 252)
 
-### First Entry
+### First Entry (252-01-01)
 
 Here follow the accounts of Minterwute, rector and leader of the fort as of the 252-01-01.
 
@@ -49,3 +49,44 @@ An ideal location for this would be the dormitory level, just below the above-gr
 In an emergency, the population will retreat into this level and seal themselves in, hopefully with a reasonable stock of provisions.
 
 The last order of business is to figure out a situation with burials. We've got a corpse lying up top, and its kind of starting to smell.
+
+### Second Entry (252-04-01)
+
+Summer has come, and it's time for me to update my journal. Progress on the fortress was both quick and astoundingly slow.
+
+In terms of fortress security, some of the primary measures are in place.
+The old stairwell into the caverns has been completely sealed off, and the planned double airlock as been successfully constructed and hooked up.
+Not that it does much at the present, seeing as the offshoot passage downwards hasn't yet been extended. Mostly, it's a dead end.
+
+This season was rife with panic, mostly trying to accommodate a wildly moody dwarf that I honestly cannot be bothered to remember the name of.
+Either way, they're currently running around the fields outside of the fortress, completely naked. The taverns patrons are as confused as I am.
+I understand that delays in procuring glass can be frustrating, but I don't see how this is going to expedite the process.
+
+These delays mostly come down to the lack of means for procuring sand, a vital component in the production of glass.
+To date, we've still not managed to get any sand going, what with all of the bags we've produced spontaneously filling up with seeds.
+I'm still trying to figure out at the culprit behind this mischief.
+
+The lack of any bags, cloth, or thread in the first place didn't help the situation either.
+We've now spent the better part of a month scrambling to set up pipelines for cloth production and churning out bags as quickly as possible.
+And not without merit! Sheep having been rushed in and out of the fort and their wool now binds together some lovely new woolen bags.
+Which are full of seeds.
+
+Why are the bags full of seeds.
+
+On the bright side, we got a whole bunch of coffins set up in record time. It only took some 4 days to lug the corpse of whattheirface into a coffin.
+That's what we like to call dwarven efficiency.
+
+The population of the fort has swelled significantly, up to a lofty total of 83, between the spring migration wage and steady trickle of petitions for residence.
+Thus far, provisions such as food and drinks, as well as accommodations and luxuries appear to be in sufficient supply.
+Some more beds and doors needed to be ordered, but everyone seems to be settling in.
+
+Plans for the coming season are to get our wool production up to snuff, fix our supply of bags, and begin collecting sand.
+We don't yet have a proper area set up for our sand harvesting ventures, but the burial chambers seems to have plenty of the stuff, so it'll do.
+And if everything goes as planned, maybe we can even start producing green glass before the summer is out.
+Having glass crafts to trade for the autumn season would be highly desirable.
+
+Oh. And I think one of the residents died?
+I'm not quite sure.
+Either way, the lunatic running our the riverbed will be soon.
+
+We're gonna need to build some more coffins.
