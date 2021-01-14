@@ -126,3 +126,38 @@ Thus far, we've only found gold, which on it's own is quite the find! I'm certai
 Oh, and we're running out of clothes.
 Should be pretty simple to get that solved though.
 How hard can getting a bit of cloth be?
+
+### Fourth Entry (252-10-01)
+
+It's winter, and things have been going relatively smoothly. We're sorted out the drinks situation now, with both fruits and plants being brewed.
+This is good, and our stores are quickly replenishing. My hope is to build up a surplus of drinks, as the dwarven caravan's that visited us this year
+were happy to pay a steep markup on alcohol.
+
+Also on cheese, which I've started a production pipeline for.
+We've got sheep to milk, and I've expanded our production floor to accommodate an additional workshop to be able to produce cheese.
+This should also help with the textile industry, which is starting to get off the ground, although isn't yet reliable or automated.
+
+Still, we've gotten a bit more clothes into circulation (at least, enough that no dwarves risk going naked anymore), and are focused on pumping out bags again.
+I really wanna get those glass furnaces going, which have sat idle since spring.
+
+Also, as a memo to my successor:
+If you find yourself confused by the large collection of rooms just below the production level, those are just our quarry.
+Gotta get gold and gems from somewhere.
+
+Speaking of gold, there seems to be fair bit of the stuff around, although it seems to be only present near to the surface.
+So far, we've not found any deeper metals, but we've not really ventured downwards beyond the cavern network that was discovered before my time.
+Probably going address that this season.
+Mostly because I'd like to make sure there's a proper airlock isolating the levels below the caverns, for the sake of safety.
+
+There's also the matter of the potential... Miscalculation on my part.
+Well,
+There's an awful lot of performers in the tavern.
+
+A lot of performers.
+Dancers, poets, musicians...
+And they just keep performing.
+
+I'm finding it hard to get most of the dwarves to do anything.
+They just sit around and listen to the poetry all day.
+
+It's taken the better part of four months to fulfill an order of 10 stone mugs.
