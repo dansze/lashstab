@@ -90,3 +90,39 @@ I'm not quite sure.
 Either way, the lunatic running our the riverbed will be soon.
 
 We're gonna need to build some more coffins.
+
+### Addendum (252-05-09)
+
+Kubuk Ostolin, the child, has been striken by melancholy.
+
+For no discernable reason.
+
+### Third Entry (252-07-01)
+
+Autumn has come. It's been a busy season.
+
+We've lost a couple of rampant dwarves since my last entry, but that's mostly fine. They were being particularly productive anyway.
+Not to mention, our population is ballooning, with more of the folk migrating in, as well as the permanent residents of our tavern petitioning their stays.
+
+Our trader has crafted an artifact of great worth only a few days ago.
+While the quality of the item is stunning, and the detail of its decoration remarkable, there is a slight problem:
+It's absolutely useless.
+
+Who wants a solid gold toy axe?
+Seriously, what is the point of this thing? It's covered in gold spikes and sheep's bone, and is absolutely useless as both a toy and a weapon.
+I simply do not understand.
+
+In other news, we're running short on drink.
+It seems that the dwarves had been given strict instructions on the drinks to be brewed in the quotas they must fulfill.
+And our gatherer's have been working tirelessly to ensure that the fort is stocked with ample foodstuffs, most recently, a haul of cherries.
+What is the problem, then?
+Well, some bureaucrat decided that fruit aren't plants, and we can't be brewing drinks from that.
+
+I've now got two separate sets of instructions queued up, to brew drinks out of each of plants and fruits, because apparently cherries just aren't plants.
+
+On a separate note, I've started a bit of work on our metalworking industry.
+Thus far, we've only found gold, which on it's own is quite the find! I'm certain that its worth and value will bring the settlement nothing but fortune!
+
+Oh, and we're running out of clothes.
+Should be pretty simple to get that solved though.
+How hard can getting a bit of cloth be?
