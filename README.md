@@ -161,3 +161,32 @@ I'm finding it hard to get most of the dwarves to do anything.
 They just sit around and listen to the poetry all day.
 
 It's taken the better part of four months to fulfill an order of 10 stone mugs.
+
+### Final Entry (253-01-01)
+
+My tenure as leader of this fort is finally over. Winter has rolled around and everything is going smoothly.
+We're now brewing meed, pressing honey, creating leather and textiles, and doing so mostly with automated processes in place.
+If one were to describe things, they be going... Well, they'd be going surprisingly, smoothly.
+
+We've apparently already reached the pinnacle of our beekeeping industry, with the specialist reporting that we can have no more colonies.
+That doesn't entirely make sense to me - there's plenty of space to add more hives - but I'd rather avoid the dreaded "bee experience".
+What we've got will have to do, and it seems to be enough to get a bit of the mead flowing.
+
+On a related note: Cheese!
+Yes, we're producing lovely, golden, sheep's milk cheeses for both consumption and export.
+The dwarven traders that came around in the fall seemed to be particularly interested in these, willing to pay well over double their value!
+
+There's ample living space, food and drink supplies, and the over all mood in the fortress is rather cheery.
+I don't think I'm leaving my successor with any particular baggage to deal with, so it's up to them to grow us out rapidly.
+
+This final entry shall be a short one.
+There's no much to say, and I've fulfilled most of the goals I've set out before myself.
+The fortress thrives, but this chapter of its history comes to a close.
+
+Maybe I'll serve another term in the future.
+My old village calls me home, and to there I return.
+
+To my successor:
+
+Best of luck.
+We finally have enough bags to collect sand.
