@@ -17,6 +17,7 @@ Normally, when you get an expedition grant, you grab your crew, buy supplies, an
 We're finally here. The swamp is as flat as it looked from the mountainhome, and just as lush to boot. We started building out the tavern that'll be out hillock's front door, and got to work collecting what fruits and herbs we could find to stock it. We've plenty of food with us, but it never hurts to be prepared when it comes to starvation.
 
 The Tavern - https://i.imgur.com/1WFnwqp.png
+
 The Hillock proper, or at least the beginnings of one - https://i.imgur.com/Z8R5bM5.png
 
 ### Summer 250
@@ -38,6 +39,7 @@ We really need that tavern.
 Regardless, we're a proper fort now, and that means we have to start managing out supplies. The animals have to be put in to a pasture, the ducks need nests, and we need someone to start doing the bookeeping and other paperwork. Not that there's any paper involved, shouldn't get the papermaker's hopes up just yet.
 
 The hillock proper, built out - https://i.imgur.com/Ruxr1bx.png
+
 A list of our brave and useful new citizens - https://i.imgur.com/ou2dAqH.png
 
 #### Day 70
@@ -75,6 +77,7 @@ A warm swamp, they said. Practically tropical, they said. And yet here I am, nea
 The tavern attracted some local nobility, which is a good sign. I would serve them up some mead to get good publicity, but our beekeeper quickly put a stop to that idea. The hives just split, so it would set us back three months for just a couple of barrels of the stuff. We put out a few more hives to get ready for the next split, as we were starting to run out of space for the next set of hives.
 
 A royal visit - https://i.imgur.com/kzrpS3z.png
+
 The Bees, enbeegening - https://i.imgur.com/UYZsNob.png
 
 #### Day 70
@@ -82,9 +85,6 @@ The Bees, enbeegening - https://i.imgur.com/UYZsNob.png
 That's a lot of sheep. Our clothes are still in good order, but we should really think about setting up some looms and shearing the things. Maybe eating a couple too, there's only so many cherries and eggs a dwarf can eat without a bite of meat to spice things up. They grow faster than bees too, so surely it'll be fine. That's for next year though.
 
 More Herd - https://i.imgur.com/iW1CVjU.png
-
-
-
 
 ## The Second Year
 
