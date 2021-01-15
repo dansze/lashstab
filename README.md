@@ -1,12 +1,92 @@
 The Saga* of Lashstab
 =====================
 
-\* actual saga coming soon
+The Founding Year
+-----------------
+
+### Spring 250
+
+#### Day 1
+
+And with that last signatue, our plan was set in to motion.
+
+Normally, when you get an expedition grant, you grab your crew, buy supplies, and hope that you can dig a hole pretty enough to attract some actually useful help instead of the local hungry orphanage. Sometimes, this even works. Our beekeeper, however, had a bright idea. What if we just convinced the help to come to us instead? There's plenty of empty roads that could use an inn, and plenty of travelers looking for a place to stay. Surely some of them have useful skills and are looking for a place to stay? Worst case, they still have bodies to block doors with, and hopefully some semblance of a self preservation instinct to motivate them to fight any invaders.
+
+#### Day 14
+
+We're finally here. The swamp is as flat as it looked from the mountainhome, and just as lush to boot. We started building out the tavern that'll be out hillock's front door, and got to work collecting what fruits and herbs we could find to stock it. We've plenty of food with us, but it never hurts to be prepared when it comes to starvation.
+
+The Tavern - https://i.imgur.com/1WFnwqp.png
+The Hillock proper, or at least the beginnings of one - https://i.imgur.com/Z8R5bM5.png
+
+### Summer 250
+
+#### Day 1
+
+Not sure why we even brought a beekeeper. He's not doing much besides help carry all the wood we chopped, and there's no bees to put him to work managing. We'll just have to keep looking I guess.
+
+#### Day 40
+
+Bees!
+
+#### Day 52
+
+We may be in the middle of a human kingdom trying to get their patrols to live in a proper dwarven hole, but we're also still a chartered expedition. It's halfway through summer, and that means the mountainhome sends us migrants. A proper legendary minder decided to join, as well a couple of minors. Plenty of other dwarves too, but they're more of the sort you'd expect, having been laughed out of their homes for mastering the art of squishing wood pulp and the like.
+
+We really need that tavern.
+
+Regardless, we're a proper fort now, and that means we have to start managing out supplies. The animals have to be put in to a pasture, the ducks need nests, and we need someone to start doing the bookeeping and other paperwork. Not that there's any paper involved, shouldn't get the papermaker's hopes up just yet.
+
+The hillock proper, built out - https://i.imgur.com/Ruxr1bx.png
+A list of our brave and useful new citizens - https://i.imgur.com/ou2dAqH.png
+
+#### Day 70
+
+Once again, the utility of beekeeping is questionable at best. The beekeeper has declared that the bee products will be ready for harvesting in about two years time. Two years! And even then, it'll only produce about as much food as a small farm plot. Oh well, at least people like the stinging.
+
+In more immediate news, we're starting to make some progress on the tavern.
+
+The tavern, flooring - https://i.imgur.com/lozQjKm.png
+
+### Autumn 250
+
+#### Day 7
+
+The traders are here from the mountainhome, although we have nothing to sell and nothing that needs buying. They are trying to sell us some interesting leather products though. Unnatural looking ones even, although there's no telling what manner of beast this came off of. Best be wary for now.
+
+The trader's goods, completely unsuspicious - https://i.imgur.com/Ggj0vZy.png
+
+#### Day 20
+
+The tavern is finally open for business. It's all local for now, but the visitors will come eventually.
+
+Tavern interior, plenty of seating space - https://i.imgur.com/2p1am6I.png
+
+Our manager also set up some basic stock managing practices to keep the tavern stocked and our citizens fed.
+
+Repeating jobs - https://i.imgur.com/qFxFiBw.png
+
+### Winter 250
+
+#### Day 50
+
+A warm swamp, they said. Practically tropical, they said. And yet here I am, nearly freezing my leg off washing dead bees out of my boot. At least the water should thaw quickly, theres' not that much time left in the winter.
+
+The tavern attracted some local nobility, which is a good sign. I would serve them up some mead to get good publicity, but our beekeeper quickly put a stop to that idea. The hives just split, so it would set us back three months for just a couple of barrels of the stuff. We put out a few more hives to get ready for the next split, as we were starting to run out of space for the next set of hives.
+
+A royal visit - https://i.imgur.com/kzrpS3z.png
+The Bees, enbeegening - https://i.imgur.com/UYZsNob.png
+
+#### Day 70
+
+That's a lot of sheep. Our clothes are still in good order, but we should really think about setting up some looms and shearing the things. Maybe eating a couple too, there's only so many cherries and eggs a dwarf can eat without a bite of meat to spice things up. They grow faster than bees too, so surely it'll be fine. That's for next year though.
+
+More Herd - https://i.imgur.com/iW1CVjU.png
 
 
 
 
-### The Second Year
+## The Second Year
 
 We struck the earth! The dwarves of Lashstab entered a cave beneath the fortress. The cave was not immediately aggressive, but risk must wait until the proper defenses have been prepared. The cave was immediately sealed.
 
