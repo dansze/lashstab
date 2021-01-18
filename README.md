@@ -1,12 +1,12 @@
-The Saga* of Lashstab
-=====================
+The Saga of Lashstab
+====================
 
-\* actual saga coming soon
+## The First Year
+Records of the first year are missing. (Honestly, I think they just forgot to write them down. Stodir and Sodel both claim Ingiz was supposed to do it, but Ingiz says he was most certainly not, that was Kadol's job. Or maybe a giant magpie or something actually ran off with them, who knows.)
 
 
 
-
-### The Second Year
+## The Second Year
 
 We struck the earth! The dwarves of Lashstab entered a cave beneath the fortress. The cave was not immediately aggressive, but risk must wait until the proper defenses have been prepared. The cave was immediately sealed.
 
