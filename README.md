@@ -190,3 +190,17 @@ To my successor:
 
 Best of luck.
 We finally have enough bags to collect sand.
+
+
+
+## The Fourth Year
+
+It is 2:32 A.M., and I have jusht receeeeived the official handover, replete with party. Certainly welcome after my journey from Minterwute is asleep, and will head back to the capitol from whence I came early tomorrow. I have pressed Ingiz Tangathiden into service as my scribe here. Truth be told, it has been years since I've steppened into the poshition of director, and I'm a bit rusty. I was a young dwarf once, one of the founders of the now-forgotten fortress of Ezekub, and the art of fortress life has very evidently progresshed. I barely understood half the chatter over dinner!
+
+Of immediate concern is the cult of necromancers which has embedded itself in the fortress here. I will not have this fortress turn into a tower of the dead! But the practitioners are well-known in the fortress, I cannot jushht… jusht. Come in and execute them! And there are more mundane affairs to be taken into account too. My predecessor left good notes, which I had time to review before the party! (A rarity in these times to be sure.) He has been a good leader by all accounts, although I cannot believe he's let the necromancers get to the point he has. nooowwww... immediate concerns, I am not sure the stairs in the caverns are up to code, as they may be enterable diagonally upward. But this is a fairly tricky manoeuvre to perform, so it's probably preeeety low priority to fix. More pressing seems to be to get sand collection going, as glass is a low-hanging industry chain and an oft-requested material by the crazier of our number.
+
+I may have to segregate the dwarves; perhaps I can contain the necromancers to their own quarters at least. Forbid them access to the graveyard, wherever __that__ is.
+
+I'm not exactly shure what this water lock business is. Where I come from, bedrock is the only thing that will prevent trouble for sure. I can feel we are in a shallow biome, above a magma bubble I think. And the fact that the caverns are on floor 7 are a sure sign I am right. This isn't necessarily bad, but I would feel more secure if we had a proper mountain to dig in to.
+
+Olon Lertethasen the farmer has just informed us that we had 560134 live honey bees. I swear to Eges above, if we could put half the effort we can into engineering tasks into getting along, we would live in a paradise. I'm going to bed, wherever that is. We need to sort out a proper office for the mayor too, he wouldn't let me hear the end of it tonight.
