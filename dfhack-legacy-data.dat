@@ -26,5 +26,131 @@
 		],
 		"k" : "buildingplan/global",
 		"s" : "bars=0|blocks=1|boulders=1|logs=1|"
+	},
+	{
+		"i" : 
+		[
+			-1,
+			1814,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/reservedroom",
+		"s" : "MAYOR"
+	},
+	{
+		"i" : 
+		[
+			-1,
+			1882,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/reservedroom",
+		"s" : "DUNGEON_MASTER"
+	},
+	{
+		"i" : 
+		[
+			-1,
+			1864,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/reservedroom",
+		"s" : "MAYOR"
+	},
+	{
+		"i" : 
+		[
+			-1,
+			1859,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/reservedroom",
+		"s" : "CAPTAIN_OF_THE_GUARD"
+	},
+	{
+		"i" : 
+		[
+			-1,
+			1858,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/reservedroom",
+		"s" : "MAYOR"
+	},
+	{
+		"i" : 
+		[
+			-1,
+			1861,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/reservedroom",
+		"s" : "DUNGEON_MASTER"
+	},
+	{
+		"i" : 
+		[
+			-1,
+			1885,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/reservedroom",
+		"s" : "CAPTAIN_OF_THE_GUARD"
+	},
+	{
+		"i" : 
+		[
+			-1,
+			1871,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/reservedroom",
+		"s" : "CAPTAIN_OF_THE_GUARD"
+	},
+	{
+		"i" : 
+		[
+			-1,
+			1868,
+			-1,
+			-1,
+			-1,
+			-1,
+			-1
+		],
+		"k" : "buildingplan/reservedroom",
+		"s" : "DUNGEON_MASTER"
 	}
 ]
